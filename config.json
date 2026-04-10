@@ -1,10 +1,11 @@
 {
 	"flujos":[
-		"dashboard"
+		"dashboard",
+		"facturas"
 	],
 	"disponibilidad": true,
 	"configuracion" : {
-		"modoNoche" : false,
-		"datosGuardados": 3
+		"modoNoche" : true,
+		"datosGuardados": 5
 	}
 }
