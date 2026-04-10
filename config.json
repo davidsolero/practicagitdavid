@@ -1,0 +1,10 @@
+{
+	"flujos":[
+		"dashboard"
+	],
+	"disponibilidad": true,
+	"configuracion" : {
+		"modoNoche" : false,
+		"datosGuardados": 3
+	}
+}
