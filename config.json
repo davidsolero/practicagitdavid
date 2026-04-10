@@ -1,7 +1,9 @@
 {
 	"flujos":[
 		"dashboard",
+		"users",
 		"facturas"
+
 	],
 	"disponibilidad": true,
 	"configuracion" : {
