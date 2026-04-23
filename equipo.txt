@@ -1,6 +1,6 @@
 Equipo
 ------
 	QA - Francisco Pacheco Gomez
-	Analista - David Solero
-	Desarrollador 1 - David Casasola
+	Analista - David Casasola
+	Desarrollador 1 - David Solero
 	Desarrollador 2 - Rafael Ignacio Reyes Ortiz
